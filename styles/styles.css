@@ -7,6 +7,7 @@ body {
     flex-direction: column;
 
     margin: 0;
+
 }
 
 .main-text {
@@ -24,6 +25,13 @@ body {
     color: #f9faf8;
 
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 250px;
+}
+ul {
+    display: flex;
+    gap: 20px;
 }
 
 .logo {
