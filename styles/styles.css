@@ -1,0 +1,8 @@
+html {
+    font-family: "Space Mono", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
