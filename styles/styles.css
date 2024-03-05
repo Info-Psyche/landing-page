@@ -5,6 +5,8 @@ html {
 body {
     display: flex;
     flex-direction: column;
+
+    margin: 0;
 }
 
 .main-text {
@@ -15,10 +17,13 @@ body {
 
 .hero, .header, .footer {
     background-color: #1F2937;
+
 }
 
 .header {
     color: #f9faf8;
+
+    display: flex;
 }
 
 .logo {
