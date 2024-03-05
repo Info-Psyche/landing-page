@@ -6,3 +6,18 @@ body {
     display: flex;
     flex-direction: column;
 }
+
+.main-text {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.hero, .header {
+    background-color: #1F2937;
+
+}
+
+.header {
+    color: #f9faf8;
+}
