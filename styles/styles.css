@@ -13,11 +13,34 @@ body {
     color: #f9faf8;
 }
 
-.hero, .header {
+.hero, .header, .footer {
     background-color: #1F2937;
-
 }
 
 .header {
     color: #f9faf8;
+}
+
+.logo {
+    font-size: 24px;
+}
+
+.header-links, .sub-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+}
+
+a {
+    text-decoration: none;
+}
+a:visited {
+    color:#E5E7EB;
+}
+
+ul {
+    list-style-type: none;
 }
