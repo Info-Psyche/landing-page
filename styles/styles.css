@@ -21,6 +21,14 @@ body {
 
 }
 
+.hero {
+    display: flex;
+    padding: 100px 250px;
+    gap: 25px;
+    justify-content: center;
+    align-items: center;
+}
+
 .header {
     color: #f9faf8;
 
@@ -57,3 +65,4 @@ a:visited {
 ul {
     list-style-type: none;
 }
+
