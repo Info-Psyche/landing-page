@@ -53,6 +53,12 @@ ul {
 
 button {
     background-color: #3882F6;
+    color: #f9faf8;
+    border-radius: 4px;
+    border-style: none;
+    padding: 10px 35px;
+    font-weight: 900;
+    font-size: large;
 }
 
 a {
