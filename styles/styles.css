@@ -39,7 +39,7 @@ body {
 }
 ul {
     display: flex;
-    gap: 20px;
+    gap: 30px;
 }
 
 .logo {
@@ -149,4 +149,3 @@ ul {
 }
 
 /* Note to later: Combine repeated properties */
-/* Note. Add more space between header links to make the distinction clear because the space between a regular space and gap may not be clear. */
