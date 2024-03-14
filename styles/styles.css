@@ -191,9 +191,3 @@ ul {
 }
 
 
-/* Note. Make background color for each section stretch.
-Possibly create a div around them all and let it be able to flex grow?
-Couldn't figure it out. There was specific issue of sign up container 
-expanding beyond all the borders and leaving blue blocks for example with empty
-white space to the right where the sign up box expanded off to. 
-Probably just a unique issue under that circumstance.*/
