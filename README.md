@@ -1,13 +1,7 @@
 # landing-page
 
-In this project, I attempted to replicate a page provided by The Odin Project. I did this using what I have learned so far from TOP utilizing flex to arrange the content within the web page. I also learned new things while searching on google when I came across wanting to get the content to display a certain way but I have not yet learned how to yet through TOP. This was part of the learning process that TOP intended. I feel as if what I accomplished was well done for my skill level, but I acknowledge that there are limitations to what I'm aware of and believe it could be better and I wonder in what way that could be. Overall, this was good hands-on learning practice.
-
-
-
-
-
-
-
+In this project, I attempted to replicate a page provided by The Odin Project. I did this using what I have learned so far from TOP utilizing flex to arrange the content within the web page. I also learned new things while searching on google when I came across wanting to get the content to display a certain way but I have not yet learned how to yet through TOP. This was part of the learning process that TOP intended. I feel as if what I accomplished was well done for my skill level, but I acknowledge that there are limitations to what I'm aware of and believe it could be better and I wonder in what way that could be. Overall, this was good hands-on learning practice. 
+Theme of the content on the webpage is inspired by Videodrome. Had fun with creating some made up website.
 
 
 
