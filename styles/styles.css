@@ -13,12 +13,11 @@ body {
 .main-text {
     font-size: 48px;
     font-weight: 900;
-    color: #f9faf8;
+
 }
 
 .hero, .header, .footer {
     background-color: #1F2937;
-
 }
 
 .hero {
@@ -30,7 +29,7 @@ body {
 }
 
 .header {
-    color: #f9faf8;
+
 
     display: flex;
     justify-content: space-between;
@@ -48,11 +47,11 @@ ul {
 
 .header-links, .sub-text {
     font-size: 18px;
-    color: #E5E7EB;
+
 }
 
 .info {
-    background-color: white;
+
     display: flex;
     flex-direction: column;
     padding: 10px 250px;
@@ -121,7 +120,7 @@ ul {
 
 .su-container {
     padding: auto;
-    background-color: white;
+
     display: flex;
     justify-content: center;
     align-items: center;
@@ -142,11 +141,11 @@ ul {
     margin: 0;
     font-weight: bold;
     font-size: larger;
-    color: #f9faf8;
+
 }
 .su-small {
     margin: 0;
-    color: #E5E7EB;
+
 }
 .su-button {
     border: 2px solid #f9faf8;
@@ -156,13 +155,25 @@ ul {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: hsl(220, 13%, 91%);
+
     padding: 30px 0;
+}
+
+button, a:visited, .su-bold, .header, .main-text {
+    color: #f9faf8;
+}
+
+.su-small, .header-links, .sub-text, .footer {
+    color: #E5E7EB;
+}
+
+.su-container, .info {
+    background-color: white;
 }
 
 button {
     background-color: #3882F6;
-    color: #f9faf8;
+
     border-radius: 4px;
     border-style: none;
     padding: 10px 35px;
@@ -173,14 +184,15 @@ button {
 a {
     text-decoration: none;
 }
-a:visited {
-    color:#E5E7EB;
-}
+
 
 ul {
     list-style-type: none;
 }
 
-/* Note to later: Combine repeated properties */
+
 /* Note. Make background color for each section stretch.
-Possibly create a div around them all and let it be able to flex grow? */
+Possibly create a div around them all and let it be able to flex grow?
+Couldn't figure it out. There was specific issue of sign up container 
+expanding beyond all the borders and leaving blue blocks for example with empty
+white space to the right where the sign up box expanded off to. */
